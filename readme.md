@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Haroon</h1>
 <h3 align="center">A passionate backend developer from Pakistan.</h3>
-<img align="right" alt="coding" width="400" scr="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
+
+<img align="right" alt="Coding"  height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+
 - 🔭 I’m currently working on **JavaScript**
 
 - 🌱 I’m currently learning **node.js**
