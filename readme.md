@@ -1,7 +1,9 @@
+![Brown   Black Geometric Personal Branding LinkedIn Banner](https://github.com/ImMohammadHaroon/ImMohammadHaroon/assets/162042814/6fe79d78-68fb-4233-9a9d-427e36a4af19)
+
 <h1 align="center">Hi 👋, I'm Mohammad Haroon</h1>
 <h3 align="center">A passionate backend developer from Pakistan.</h3>
 
-<img align="right" alt="Coding"  height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" alt="Coding"  width=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 - 🔭 I’m currently working on **JavaScript**
 
@@ -17,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad haroon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad haroon" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad haroon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad haroon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-haroon-6575b0285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad haroon" height="30" width="40" /></a>
+<a href="[https://fb.com/muhammad haroon](https://www.facebook.com/profile.php?id=100066871834987)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad haroon" height="30" width="40" /></a>
 <a href="https://instagram.com/devowl_314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devowl_314" height="30" width="40" /></a>
 </p>
 
