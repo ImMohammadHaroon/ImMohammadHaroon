@@ -1,4 +1,4 @@
-![Brown   Black Geometric Personal Branding LinkedIn Banner](https://github.com/ImMohammadHaroon/ImMohammadHaroon/assets/162042814/6fe79d78-68fb-4233-9a9d-427e36a4af19)
+
 
 <h1 align="center">Hi 👋, I'm Mohammad Haroon</h1>
 <h3 align="center">A passionate backend developer from Pakistan.</h3>
