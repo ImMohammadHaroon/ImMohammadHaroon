@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/12kXSKS1GTKfS5kuvRXhx-hWVR6YOGu4kNEDDtNTECnQ/edit?usp=drive_link](https://docs.google.com/document/d/12kXSKS1GTKfS5kuvRXhx-hWVR6YOGu4kNEDDtNTECnQ/edit?usp=drive_link)
 
-- ⚡ Fun fact **I think I'm good boy😁.**
+- ⚡ Fun fact **!(love bug🐞)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
