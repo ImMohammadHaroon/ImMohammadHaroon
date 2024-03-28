@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohammad Haroon</h1>
-<h3 align="center">A passionate backend developer from Pakistan.</h3>
+<h2 align="center">Full Stock Developer.</h2>
 
 <img align="right" alt="Coding"  width=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
@@ -32,4 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=immohammadharoon&show_icons=true&locale=en" alt="immohammadharoon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=immohammadharoon&" alt="immohammadharoon" /></p>
