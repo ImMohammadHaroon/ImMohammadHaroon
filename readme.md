@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **JavaScript**
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **react.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ImMohammadHaroon](https://github.com/ImMohammadHaroon)
 
