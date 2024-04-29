@@ -6,7 +6,7 @@
 <img align="right" alt="Coding"  width=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **web development**
 
 - 🌱 I’m currently learning **react.js**
 
