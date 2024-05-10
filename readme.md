@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/12kXSKS1GTKfS5kuvRXhx-hWVR6YOGu4kNEDDtNTECnQ/edit?usp=sharing](https://docs.google.com/document/d/12kXSKS1GTKfS5kuvRXhx-hWVR6YOGu4kNEDDtNTECnQ/edit?usp=sharing)
 
--  ⚡ Fun fact **!(love bug🐞)**
+-  ⚡ Fun fact **I Hate Apples 🍎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
