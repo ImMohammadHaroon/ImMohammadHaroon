@@ -9,7 +9,9 @@
 &nbsp;
 <img src="https://img.shields.io/badge/📍%20Pakistan-1a1a2e?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/💼%20Open%20to%20Hire-059669?style=for-the-badge"/>
+<a href="https://docs.google.com/document/d/1HDedfDRLyDRstx9CsCqM0BMOvg-Y3z1C/edit?usp=sharing&ouid=100938734969946934026&rtpof=true&sd=true" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Resume-0ea5e9?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+</a>
 &nbsp;
 <a href="https://devowl.me" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
@@ -133,7 +135,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;
-  <a href="https://docs.google.com/document/d/12kXSKS1GTKfS5kuvRXhx-hWVR6YOGu4kNEDDtNTECnQ/edit?usp=sharing" target="_blank">
+  <a href="https://docs.google.com/document/d/1HDedfDRLyDRstx9CsCqM0BMOvg-Y3z1C/edit?usp=sharing&ouid=100938734969946934026&rtpof=true&sd=true" target="_blank">
     <img src="https://img.shields.io/badge/Resume-0ea5e9?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
 </p>
