@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Mohammad%20Haroon&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=58&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Muhammad%20Haroon&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=58&descColor=a78bfa" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=a78bfa&center=true&vCenter=true&width=500&lines=Assalam+O+Alaikum!+%F0%9F%91%8B;React+%C2%B7+Node.js+%C2%B7+Next.js+%C2%B7+MongoDB;Building+AI-Powered+Web+Experiences+%F0%9F%9A%80;Open+to+Freelance+%26+Collaborate+%F0%9F%A4%9D" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=a78bfa&center=true&vCenter=true&width=500&lines=Assalam+O+Alaikum!+%F0%9F%91%8B;I'm+Muhammad+Haroon;React+%C2%B7+Node.js+%C2%B7+Next.js+%C2%B7+MongoDB;Building+AI-Powered+Web+Experiences+%F0%9F%9A%80;Open+to+Freelance+%26+Collaborate+%F0%9F%A4%9D" alt="Typing SVG"/>
 
 <br/>
 
@@ -10,11 +10,11 @@
 <img src="https://img.shields.io/badge/📍%20Pakistan-1a1a2e?style=for-the-badge"/>
 &nbsp;
 <a href="https://docs.google.com/document/d/1HDedfDRLyDRstx9CsCqM0BMOvg-Y3z1C/edit?usp=sharing&ouid=100938734969946934026&rtpof=true&sd=true" target="_blank">
-  <img src="https://img.shields.io/badge/📄%20Resume-0ea5e9?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  <img src="https://img.shields.io/badge/📄%20Resume-0ea5e9?style=for-the-badge&logo=google-drive&logoColor=white" alt="Muhammad Haroon Resume"/>
 </a>
 &nbsp;
 <a href="https://devowl.me" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Muhammad Haroon Portfolio"/>
 </a>
 
 </div>
@@ -22,6 +22,8 @@
 ---
 
 ### 🧑‍💻 About Me
+
+I'm **Muhammad Haroon**, a Full Stack MERN Developer and Computer Science student from Bahawalpur, Pakistan. I build modern, scalable web applications with React, Node.js, and MongoDB, and I'm currently a Full-Stack Developer Intern at **ML Bench**, working on **ProjectSphere**, a multi-tenant SaaS project management platform.
 
 <table>
   <tr>
@@ -40,8 +42,8 @@
     <td valign="top" width="50%">
       <h4>🚀 Currently Building</h4>
       <p>
-        <strong>AI Meeting Platform</strong> @ <a href="https://devowl.me">devowl.me</a><br/>
-        An intelligent meeting tool with real-time features and AI-powered workflows.
+        <strong>ProjectSphere</strong> @ ML Bench<br/>
+        A multi-tenant SaaS project and task management platform with RBAC, real-time Kanban, and Socket.io sync.
       </p>
       <h4>📚 Currently Learning</h4>
       <p>
@@ -77,12 +79,19 @@
       </p>
       <h4>✉️ Contact</h4>
       <p>
-        Drop a message — I respond fast and I'm always open to exciting collaborations.<br/>
+        Drop a message, I respond fast and I'm always open to exciting collaborations.<br/>
         <code>hire: true // always!</code>
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+### 🏆 Achievements
+
+- **Top 50 of 250 teams** at Innovative Pakistan 2026 for **Meeting AI**, an AI-powered meeting assistant (final year project)
+- **Published researcher**: "AI-Driven Chatbots for English Speaking Anxiety" in ACADEMIA International Journal for Social Sciences (Vol. 5, Issue 1(a), 2026) — [DOI: 10.63056/academia.5.1(a).2026.1892](https://doi.org/10.63056/academia.5.1(a).2026.1892)
 
 ---
 
@@ -120,11 +129,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devowl/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Haroon LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://devowl.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Muhammad Haroon Portfolio"/>
   </a>
   &nbsp;
   <a href="mailto:devowl14@gmail.com">
