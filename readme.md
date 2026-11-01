@@ -5,7 +5,7 @@
 ### MERN Stack Developer | Full-Stack Developer
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ImMohammadHaroon&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ImMohammadHaroon&label=Profile%20Views&color=0e75b6&style=flat&base=2000000" alt="Profile views" />
 </p>
 
 <a href="https://haroon.live">
